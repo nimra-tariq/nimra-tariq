@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="50"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/nimra-tariq-6784aa1b0/">
@@ -12,7 +12,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=nimra-tariq&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="./women-in-tech.jfif" width="200" height="200"/>
 </div>
 I am a Full Stack Developer from Pakistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web 3.0 based applications.
